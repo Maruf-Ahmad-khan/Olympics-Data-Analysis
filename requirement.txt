@@ -1,0 +1,6 @@
+python
+statistics
+streamlit
+seaborn
+matplotlit
+pandas
